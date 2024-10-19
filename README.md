@@ -1,4 +1,4 @@
-# By the Power of Python
+###### By the Power of Python
 Documenting what I learn about Python fundamentals
 
 1. [For Loop](#for-loop)
