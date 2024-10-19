@@ -15,7 +15,9 @@ A `For` Loop repeats (iterates) a block of code for each item within a sequence,
 There are 4 parts to a `For` Loop:
 - The iterator variable
 - The `in` operator
+  - used to check if a value is present in a sequence (aka membership)
 - The sequence to iterate over
 - The block of code to execute for each item in the sequence
 
-<img width="744" alt="Screenshot 2024-10-19 at 11 05 36 AM" src="https://github.com/user-attachments/assets/6377ff96-f815-4dad-b23f-4c906c6c2e7d">
+
+<img width="1329" alt="Screenshot 2024-10-19 at 11 44 32 AM" src="https://github.com/user-attachments/assets/4527e790-95ec-4e92-9673-166152a37e5b">
