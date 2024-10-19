@@ -20,4 +20,4 @@ There are 4 parts to a `For` Loop:
 - The block of code to execute for each item in the sequence
 
 
-<img width="1229" alt="Screenshot 2024-10-19 at 11 44 32 AM" src="https://github.com/user-attachments/assets/4527e790-95ec-4e92-9673-166152a37e5b">
+<img width="1129" alt="Screenshot 2024-10-19 at 11 44 32 AM" src="https://github.com/user-attachments/assets/4527e790-95ec-4e92-9673-166152a37e5b">
