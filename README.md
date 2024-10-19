@@ -11,27 +11,10 @@ Documenting what I learn about Python fundamentals
 `For` is an iteration keyword in Python. Keywords are reserved so they can't be used as a variable, function, or other identifier. 
 A `For` Loop repeats (iterates) a block of code within an iterable object such as list, tuple, dictionary, range, or strings.  
 
-# Example headings
+```
 
-## Sample Section
+for i in range(5): 
+    print("Ain't no party like a Python Party! ", i)
+    print("because a Python Party don't stop!" )
 
-## This'll  be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
-
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+```
