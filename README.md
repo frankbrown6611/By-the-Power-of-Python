@@ -5,7 +5,7 @@ Documenting what I learn about Python fundamentals.
 
 [For Loop](#for-loop)
 
-
+[References]
 
 
 
@@ -28,5 +28,5 @@ There are 4 main parts to a `For` Loop:
 
 
 
-##References
+## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
