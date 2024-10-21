@@ -5,7 +5,7 @@ Documenting what I learn about Python fundamentals.
 
 [For Loop](#for-loop)
 
-[If Statment](#If-statment)
+[If Statement](#If-statement)
 
 [References](#References)
 
