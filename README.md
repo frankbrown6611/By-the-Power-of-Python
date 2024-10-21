@@ -30,5 +30,9 @@ There are 4 main parts to a `For` Loop:
 
 ## [If Statement](https://www.linode.com/docs/guides/if-statements-and-conditionals-in-python/)
 
+The `if` statement is a type of conditional statment used to execute code based on whether a condition is True or False. `If` implements control flow constructs.  
+
+Chained conditional statements and Nested statements are used with the `If` statement to evaluate several conditions and execute the code within the condition that is True. Visual cues on the differene between the two are: Chained conditionals use `elif` and are in line with the `If` statement. Nested statements use `else if` and are indented under (nested) the `If` statement. 
+
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
