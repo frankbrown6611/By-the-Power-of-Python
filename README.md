@@ -36,24 +36,11 @@ Chained conditional statements and Nested statements are used with the `If` stat
 
 Visual cues on the differene between the two are: 
 - Chained conditionals use `elif` and are in line with the `If` statement.
-- Nested statements use `else if` and are indented under (nested) the `If` statement. 
+- Nested statements use `else if` and are indented under (nested) the `If` statement.
 
-```
-
-#Chained Conditional Statement
-
-temperature = random.randint(40,105)
-
-if temperature  >= 80: 
-    answer = "It's a pretty hot day!" 
-elif temperature >= 70: 
-    answer = "It's pretty warm today!"
-else: 
-    answer = "It's really cold today!" 
-print ("Temperature is", temperature, "degrees.")
-print (answer)
+  
+<img width="696" alt="Screenshot 2024-10-20 at 8 47 58 PM" src="https://github.com/user-attachments/assets/eac19ab2-7098-4161-af74-51d4b80e1712">
 
 
-```
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
