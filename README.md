@@ -4,6 +4,7 @@ Documenting what I learn about Python fundamentals.
 
 
 [For Loop](#for-loop)
+[If Statment](#If-statment)
 
 [References](#References)
 
@@ -26,7 +27,7 @@ There are 4 main parts to a `For` Loop:
 
 <img width="1129" alt="Screenshot 2024-10-19 at 11 44 32 AM" src="https://github.com/user-attachments/assets/4527e790-95ec-4e92-9673-166152a37e5b">
 
-
+## [If Statement](https://www.linode.com/docs/guides/if-statements-and-conditionals-in-python/)
 
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
