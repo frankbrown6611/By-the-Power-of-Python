@@ -7,6 +7,8 @@ Documenting what I learn about Python fundamentals.
 
 [If Statement](#If-statement)
 
+[Lists](#Lists) 
+
 [References](#References)
 
 
@@ -41,6 +43,7 @@ Visual cues on the differene between the two are:
   
 <img width="696" alt="Screenshot 2024-10-20 at 8 47 58 PM" src="https://github.com/user-attachments/assets/eac19ab2-7098-4161-af74-51d4b80e1712">
 
+##Lists
 
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
