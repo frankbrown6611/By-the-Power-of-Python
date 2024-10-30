@@ -9,6 +9,8 @@ Documenting what I learn about Python fundamentals.
 
 [Lists](#Lists) 
 
+[Data Frames](#Data-Frames)
+
 [References](#References)
 
 
@@ -46,6 +48,8 @@ Visual cues on the differene between the two are:
 
 ## Lists
 
+
+## Data Frames
 
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
