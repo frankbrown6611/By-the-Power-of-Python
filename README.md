@@ -1,6 +1,6 @@
 # By the Power of Python
 
-Documenting what I learn about Python fundamentals.
+Journaling my Python lessons
 
 
 [For Loop](#for-loop)
@@ -10,6 +10,7 @@ Documenting what I learn about Python fundamentals.
 [Lists](#Lists) 
 
 [Data Frames](#Data-Frames)
+  - [Basic Operations with Data Frames](#Basic-Operations-with-Data-Frames)
 
 [References](#References)
 
@@ -50,6 +51,8 @@ Visual cues on the differene between the two are:
 
 
 ## Data Frames
+
+### Basic Operations with Data Frames
 
 ## References
 Python A-Z: Python For Data Science With Real Exercises! Created by Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team https://community.superdatascience.com/c/python-az/ 
